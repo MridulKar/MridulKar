@@ -55,14 +55,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mridulkar&show_icons=true&locale=en&layout=compact" alt="mridulkar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mridulkar&show_icons=true&locale=en&layout=compact" alt="mridulkar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mridulkar&show_icons=true&locale=en" alt="mridulkar" /></p>
+
 <!--
-**hxu296/hxu296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mridulkar&show_icons=true&locale=en" alt="mridulkar" /></p>
+hxu296/hxu296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
