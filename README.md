@@ -1,9 +1,9 @@
 <h1 align='center'>
-  Hi there 👋 I'm Huan👨‍💻
+  Hi there 👋 I'm Mridul Kar👨‍💻
 </h1>
 
 <p align='center'>
-  proud 铲屎官 (Chief Litter Officer) of momo, the cat on my profile picture
+  proud PHP Laravel Codeigniter Developer
 </p>
 
 <p align='center'>
@@ -24,6 +24,12 @@
 <img src="https://raw.githubusercontent.com/hxu296/hxu296/output/github-contribution-grid-snake.svg" />
 </picture>
 </p>
+
+- 🔭 I’m currently working on **Doctor Appoinment & Prescription Generating Application**
+
+- 🌱 I’m currently learning **Vue JS**
+
+- 💬 Ask me about **PHP, Laravel, CodeIgniter**
 
 <!--
 **hxu296/hxu296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
